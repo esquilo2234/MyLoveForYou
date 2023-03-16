@@ -33,6 +33,9 @@ p{
     box-shadow: 5px 5px 35px rgb(85, 84, 84);
     border-radius: 1em;
 }
+.fotos{
+    padding: 3%;
+}
 h1{
     text-align: center;
     text-shadow: 2px 2px 4px #9b9494;
