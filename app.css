@@ -1,0 +1,90 @@
+*{
+    font-family: 'Genos', sans-serif;
+
+}
+body{
+    background-image: linear-gradient(to right,#fab5df,#da78b9);
+}
+p{
+    text-align: justify;
+    font-size: 1em;
+}
+.npag{
+    background-color: white;
+    width: auto;
+    padding: 10px;
+    margin-top: 20px;
+    margin-right: 3cm;
+    margin-left: 3cm;
+    color: rgb(99, 96, 93);
+    box-shadow: 5px 5px 35px rgb(85, 84, 84);
+    border-radius: 3em;
+}
+.texto{
+    background-color: white;
+    width: 600px;
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 26.8%;
+    color: rgb(99, 96, 93);
+    box-shadow: 5px 5px 35px rgb(85, 84, 84);
+    border-radius: 1em;
+}
+h1{
+    text-align: center;
+    text-shadow: 2px 2px 4px #9b9494;
+}
+h2{
+    margin-top: 5%;
+    font-size: 21px;
+}
+
+nav{
+    padding: 8px;
+    display: flex;
+    margin: auto;
+    align-items: center;
+    max-width: auto;
+    background-color: rgb(141, 138, 139);
+    border-radius: 1rem;
+}
+#logo{
+    width: 40px;
+    margin-top: 1px;
+    margin-bottom: -4px;
+}
+.link_nav{
+    font-size: 90%;
+    margin-left: 1%;
+    text-decoration: none;
+    color: aliceblue;
+}
+#ft1{
+    width: 250px;
+}
+#ft6{
+    width: 400px;
+}
+#ft2{
+    width: 300px;
+}
+#ft3{
+    width: 256px;
+}
+#t1{
+    font-size: large;
+}
+#love{
+    color: red;
+}
+#heart{
+    color: rgba(0, 0, 0, 0.767);
+}
+#carta_fim{
+    text-align: right;
+}
+#button{
+    border-radius: 1em;
+    color: #bd2f84;
+    background-color: #64646470;
+}
