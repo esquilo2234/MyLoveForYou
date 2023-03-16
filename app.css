@@ -21,12 +21,15 @@ p{
     border-radius: 3em;
 }
 .texto{
-    background-color: white;
-    width: 600px;
-    padding: 10px;
-    margin-top: 20px;
-    margin-left: 26.8%;
     color: rgb(99, 96, 93);
+    padding: 1%;
+}
+.TextBox{
+    margin-top: 10%;
+    background-color: white;
+    width: 40%;
+    align-items: center;
+    margin-left: 30%;
     box-shadow: 5px 5px 35px rgb(85, 84, 84);
     border-radius: 1em;
 }
