@@ -1,0 +1,42 @@
+*{
+    font-family: 'Genos', sans-serif;
+
+}
+body{
+    background-image: linear-gradient(to right,#fab5df,#da78b9);
+}
+nav{
+    padding: 8px;
+    display: flex;
+    margin: auto;
+    align-items: center;
+    max-width: auto;
+    background-color: rgb(141, 138, 139);
+    border-radius: 1rem;
+}
+#logo{
+    width: 40px;
+    margin-top: 1px;
+    margin-bottom: -4px;
+}
+.link_nav{
+    font-size: 90%;
+    margin-left: 1%;
+    text-decoration: none;
+    color: aliceblue;
+}
+.texto{
+    color: rgb(99, 96, 93);
+    padding: 3%;
+    width: fit-content;
+    font-size: small;
+}
+.TextBox{
+    margin-left: 30%;
+    margin-top: 5%;
+    background-color: white;
+    width: 40%;
+    height: 30%;
+    box-shadow: 5px 5px 35px rgb(85, 84, 84);
+    border-radius: 1em;
+}
