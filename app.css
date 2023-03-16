@@ -11,11 +11,12 @@ p{
 }
 .npag{
     background-color: white;
-    width: auto;
-    padding: 10px;
-    margin-top: 20px;
-    margin-right: 3cm;
-    margin-left: 3cm;
+    width: fit-content;
+    height: fit-content;
+    padding: 1%;
+    margin-top: 2%;
+    margin-right: 15%;
+    margin-left: 15%;
     color: rgb(99, 96, 93);
     box-shadow: 5px 5px 35px rgb(85, 84, 84);
     border-radius: 3em;
@@ -34,7 +35,8 @@ p{
     border-radius: 1em;
 }
 .fotos{
-    padding: 3%;
+    padding: 2%;
+    margin-left: 15%;
 }
 h1{
     text-align: center;
@@ -66,16 +68,16 @@ nav{
     color: aliceblue;
 }
 #ft1{
-    width: 30%;
+    width: 20%;
 }
 #ft6{
-    width: 30%;
+    width: 20%;
 }
 #ft2{
-    width: 30%;
+    width: 20%;
 }
 #ft3{
-    width: 30%;
+    width: 20%;
 }
 #t1{
     font-size: large;
